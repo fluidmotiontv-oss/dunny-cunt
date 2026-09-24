@@ -1,0 +1,6 @@
+{
+  "name": "NZ Comedy Living Comic Archivist",
+  "description": "Interactive living comic book reader and cultural archive of iconic New Zealand comedy moments with dynamic canvas directives, spatial audio, and script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
